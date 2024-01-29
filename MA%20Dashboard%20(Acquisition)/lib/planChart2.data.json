@@ -1,0 +1,10 @@
+[
+  {
+    values: {{ LN_31_60_Control_Group.data.total_count }},
+    labels: {{ LN_31_60_Control_Group.data.control_group }},
+    type: 'pie',
+    marker: {
+      colors: ['rgb(30,59,138))', 'rgb(96,165,250))'] // Colors for 'Low Engaged' and 'High Engaged'
+    }
+  }
+]
